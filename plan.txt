@@ -1,0 +1,19 @@
+Projektsskizze
+
+Aspekte:
+Data input
+Strategie
+Backtesting
+Ouput verbindung mit Exchange
+
+
+Zeitplan
+1.	Daten 7.11.25
+2.	Simple Strategie 14.11.25
+3.	Verbindung mit Exchange 28.11.25
+4.	Backtesting Environment 14.12.25
+5.	Verbesserung der Strategie und Geschwindigkeit 01.01.26
+6.	Restliche Optimierungen 15.01.26
+
+
+
